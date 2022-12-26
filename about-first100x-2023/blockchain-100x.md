@@ -23,29 +23,3 @@ _Blockchain technology mainly relies on the following features:_
 * _<mark style="color:yellow;">Decentralization -</mark> Decentralization in blockchain refers to the transfer of control and decisions from a centralized entity (individual, organization, or group) to a distributed network. Decentralized blockchain networks use transparency to reduce the need for trust between participants. These networks also prevent participants from exercising authority or control over each other in ways that compromise the functionality of the network._
 * _<mark style="color:yellow;">Immutability -</mark> Immutability means something that cannot be changed or altered. No participant can violate a transaction after someone else records it in the shared ledger. If a transaction record is in error, you must add a new transaction to reverse it, and both transactions will be visible on the network._
 * _<mark style="color:yellow;">Consensus -</mark> A blockchain system establishes rules about participants' consent to record transactions. You can only register new transactions when a majority of the participants in the network have given their consent._
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-👍 Our team is working for our own blockchain to be developed and released in the near future. where 100x token will be our governance token
