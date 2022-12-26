@@ -25,3 +25,12 @@ This concept will make the internet more multifunctional and creative. It will b
 
 It is a natural continuation of what we have today. The new Internet will be even more useful in overcoming barriers, making people's lives more practical and easier, and eliminating costs. It will thus benefit the personal and professional lives of its users.
 
+#### <mark style="color:yellow;">Metaverse integration to First100x 2023</mark>
+
+First100x 2023 is developing its own metaverse, where our investors will recreate their version in virtual reality thanks to AI technology - go here:&#x20;
+
+
+
+\
+We will go beyond the virtual character, condition our investors governance meetings via metaverse and game development and commerce ! all through one click ...
+
