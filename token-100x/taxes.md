@@ -1,8 +1,9 @@
 ---
+cover: ../.gitbook/assets/GITHUB CAPA.png
 coverY: 0
 ---
 
-# 💸 Token Metrics
+# 🆗 Token Metrics
 
 |                     Description                    |  %  |
 | :------------------------------------------------: | :-: |

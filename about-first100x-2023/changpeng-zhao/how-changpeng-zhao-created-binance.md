@@ -1,4 +1,5 @@
 ---
+cover: ../../.gitbook/assets/GITHUB CAPA.png
 coverY: 0
 ---
 
