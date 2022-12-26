@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# The Discovery of Bitcoin
+# 🇨🇳 The Discovery of Bitcoin
 
 #### <mark style="color:yellow;">The Discovery of Bitcoin</mark>
 

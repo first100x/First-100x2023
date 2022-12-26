@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# How Changpeng Zhao created Binance
+# 🇨🇳 How Changpeng Zhao created Binance
 
 #### <mark style="color:yellow;">How Changpeng Zhao created Binance</mark>
 
