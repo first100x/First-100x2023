@@ -16,8 +16,8 @@
 
 ## Token 100X
 
-* [🪙 Tokenomics](token-100x/tokenomics/README.md)
-  * [💸 Token Metrics](token-100x/tokenomics/taxes.md)
+* [🪙 Tokenomics](token-100x/tokenomics.md)
+  * [💸 Token Metrics](token-100x/taxes.md)
   * [Page 1](token-100x/tokenomics/page-1.md)
 * [⁉ How to buy 100x ?](token-100x/how-to-buy-100x.md)
 * [🌅 Roadmap](token-100x/roadmap.md)
