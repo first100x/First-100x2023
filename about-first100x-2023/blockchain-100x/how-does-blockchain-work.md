@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Page 1
+# 🔰 How does blockchain work?
 
 #### <mark style="color:yellow;">How does blockchain work?</mark>&#x20;
 
@@ -33,3 +33,9 @@ Thus, the blocks and chains are securely interconnected, and you cannot edit the
 #### <mark style="color:yellow;">Step 4 - Share the ledger</mark>&#x20;
 
 The system distributes the latest copy of the central ledger to all participants.
+
+<figure><img src="../../.gitbook/assets/blockchain-decentralized.1f1fa679597b5ff909515eeb4a9ddd47e5a14f0f.png" alt=""><figcaption></figcaption></figure>
+
+#### <mark style="color:yellow;">First100x integration with its blockchain</mark>
+
+First100x 2023 is in the development phase of a totally exclusive and unique blockchain network, where our 100x token will have governance as its main role, being able to contribute directly in the future and projects of a given decentralized application (dApp), protocol, DeFi solution or game.
