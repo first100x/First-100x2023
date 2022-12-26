@@ -10,7 +10,7 @@
 * [🔰 Blockchain 100x](about-first100x-2023/blockchain-100x.md)
   * [🔰 How does blockchain work?](about-first100x-2023/blockchain-100x/how-does-blockchain-work.md)
 * [💯 Big Pot 100x](about-first100x-2023/big-pot-100x.md)
-* [Metaverse 100x](about-first100x-2023/metaverse-100x.md)
+* [🧞♀ Metaverse 100x](about-first100x-2023/metaverse-100x.md)
 * [NFT's 100x](about-first100x-2023/nfts-100x.md)
 * [IA 100x](about-first100x-2023/ia-100x.md)
 
