@@ -1,19 +1,58 @@
 ---
+cover: .gitbook/assets/GITHUB CAPA.png
 coverY: 0
 ---
 
-# Overview
+# 👨💻 Overview
 
-Once a memecoin becomes popular and skyrockets in value, retail investors sometimes go along for the ride and boost the coin even further. Celebrities and influencers also boost the popularity of certain meme-based coins.
+#### _<mark style="color:yellow;">First100x 2023</mark>_
 
-A new meme currency for Shih-Tzu fans, where you can earn a lot of passive money. You need to buy and keep your Shih-tzu tokens, we have a very low fee, massive marketing strategy, from partnerships, to AMA's in major groups such as Gollums, Venom, Caesar and WhaleCoinTalk! We will seek space in the memecoin market, and we promise to surprise everyone! Always prioritizing security for our investors, through Renounce contract, SAFU, KYC and Audit! Be the first, do not miss this opportunity. Shih-Tzu Inu can change everything!
+_First100x 2023 is a memecoin that will open the financial market of 2023, with its peculiarities and above all a revolution of our beloved CZ, we count on the popularity of it and once we become popular we will have our value skyrocketed! We will count on several DeFi principles among them some features below our 100x:_
 
+#### _<mark style="color:yellow;">Wallet 100x</mark>_
 
+_On our road map our wallet will have users track their rewards gained from reflections, wallet balance, coin valuation, and more._&#x20;
 
-For meme fans and First100x 2023 lovers, we have created a new cryptocurrency: 100x.
+{% content-ref url="about-first100x-2023/wallet-100x.md" %}
+[wallet-100x.md](about-first100x-2023/wallet-100x.md)
+{% endcontent-ref %}
 
-we want to build a fun community of memes.
+#### <mark style="color:yellow;">Blockchain 100x</mark>
 
-The **1%** fee of each transaction will be distributed automatically to holders on 100x token
+_Our team is working for our own blockchain to be developed and released in the near future. where 100x token will be our governance token_
 
-contract waived prior to launch for investor safety.
+{% content-ref url="about-first100x-2023/blockchain-100x.md" %}
+[blockchain-100x.md](about-first100x-2023/blockchain-100x.md)
+{% endcontent-ref %}
+
+#### <mark style="color:yellow;">Big Pot 100x</mark>
+
+_1% of all trades go to holders for the big pot._
+
+{% content-ref url="about-first100x-2023/big-pot-100x.md" %}
+[big-pot-100x.md](about-first100x-2023/big-pot-100x.md)
+{% endcontent-ref %}
+
+#### <mark style="color:yellow;">Metaverse</mark>
+
+_We will have a metaverse integration, conditioning our investors with capabilities from the First100x world, log in and find out more!_
+
+{% content-ref url="about-first100x-2023/metaverse-100x.md" %}
+[metaverse-100x.md](about-first100x-2023/metaverse-100x.md)
+{% endcontent-ref %}
+
+#### <mark style="color:yellow;">NFT's 100x</mark>
+
+_First 100x is a collection of 500 unique NFT._
+
+{% content-ref url="about-first100x-2023/nfts-100x.md" %}
+[nfts-100x.md](about-first100x-2023/nfts-100x.md)
+{% endcontent-ref %}
+
+#### <mark style="color:yellow;">IA 100x</mark>
+
+_We are fascinated by AI and with that we are developing tools for recreating our investors, go here for more information_
+
+{% content-ref url="about-first100x-2023/ia-100x.md" %}
+[ia-100x.md](about-first100x-2023/ia-100x.md)
+{% endcontent-ref %}
