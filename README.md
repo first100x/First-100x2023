@@ -27,7 +27,7 @@ _Our team is working for our own blockchain to be developed and released in the 
 
 #### <mark style="color:yellow;">Big Pot 100x</mark>
 
-_1% of all trades go to holders for the big pot._
+You can earn a lot of passive money. you need to buy and hold your 100x tokens. you can buy tokens to win prizes in Big POT with big rewards of fees from every transaction.
 
 {% content-ref url="about-first100x-2023/big-pot-100x.md" %}
 [big-pot-100x.md](about-first100x-2023/big-pot-100x.md)
@@ -43,7 +43,7 @@ _We will have a metaverse integration, conditioning our investors with capabilit
 
 #### <mark style="color:yellow;">NFT's 100x</mark>
 
-_First 100x is a collection of 500 unique NFT._
+First100x 2023 Cute is a collection of 500 unique NFT. Our mission is simple, to provide you with genuinely aesthetically pleasing artwork, build a vibrant community, and together provide quality value to this NFT space of ours
 
 {% content-ref url="about-first100x-2023/nfts-100x.md" %}
 [nfts-100x.md](about-first100x-2023/nfts-100x.md)

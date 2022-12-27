@@ -23,6 +23,10 @@ Well, blockchain technology can be explained as a public ledger (an accounting b
 
 #### <mark style="color:yellow;">NFT's and First100x Integration 2023</mark>
 
-<mark style="color:yellow;"></mark>
+We will condition our investors unique experiences on a unique, exclusive and fully authentic asset, all through the standard Blockchain network and after the upgrade of our blockachain, we will condition all trading functions on the First100x 2023 blockchain network !
+
+We will trade our digital arts, and in the future "Save the CZ" game items, where only users who purchase our NFT's will be able to enjoy these means. Remember that our NFT's are totally immutable and non-fungible, making it ETERNAL!
+
+Initially we will have a collection of 500 exclusive NFT's traded on the Opeansea platform.
 
 First100x 2023 Cute is a collection of 1,000 unique NFT. Our mission is simple, to provide you with genuinely aesthetically pleasing artwork, build a vibrant community, and together provide quality value to this NFT space of ours
