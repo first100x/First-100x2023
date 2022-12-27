@@ -34,3 +34,4 @@
 * [😎 Github Official](https://github.com/first100x)
 * [🤑 Reddit Official](https://www.reddit.com/user/First100x)
 * [😉 Telegram Official](https://t.me/First100xGroup)
+* [🧐 Discord Official](https://discord.gg/uvfR8MwUHR)
