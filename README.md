@@ -9,12 +9,6 @@ coverY: 0
 
 _First100x 2023 is a memecoin that will open the financial market of 2023, with its peculiarities and above all a revolution of our beloved CZ, we count on the popularity of it and once we become popular we will have our value skyrocketed! We will count on several DeFi principles among them some features below our 100x:_
 
-#### <mark style="color:yellow;">Mission / Vision & Future</mark>
-
-* Our mission is to bring our investors profitability and above all profit! To do this, we are aggregating applications and trends in one place! We will make the biggest profit of 2023
-* Our main goal is technology, and with that we bring together DeFi concept, Metaverse, NFT's, AI among others, because technology as well as First100x 2023 is the beginning of a great revolution!
-* The future awaits us, with a fully integrated AI metaverse, conditional on trading possibilities on our blockchain. We will expand our marketing in order to be recognized and respected as our beloved CZ always was and will be!
-
 #### _<mark style="color:yellow;">Wallet 100x</mark>_
 
 _On our road map our wallet will have users track their rewards gained from reflections, wallet balance, coin valuation, and more._&#x20;
