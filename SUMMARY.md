@@ -34,6 +34,6 @@
 * [🥳 Medium Official](https://medium.com/@first100x)
 * [😎 Github Official](https://github.com/first100x)
 * [🤑 Reddit Official](https://www.reddit.com/user/First100x)
-* [😉 Telegram Official](https://t.me/First100xGroup)
+* [😉 Telegram Official](https://t.me/First100x2023)
 * [🧐 Discord Official](https://discord.gg/uvfR8MwUHR)
 * [😉 Opensea](https://opensea.io/First100x2023)
