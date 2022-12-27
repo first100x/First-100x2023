@@ -17,6 +17,6 @@ __<img src="https://catecoin.club/assets/img/pancakeswap-cake-logo.svg" alt="" d
 
 _Go to_ [_**PANCAKESWAP.Finance**_](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xE4FAE3Faa8300810C835970b9187c268f55D998F) _and click the "Connect" button. When Metamask asks for your signature, go ahead and sign it._
 
-#### _🐶4. Step: Swap your BNB for First100x 2023_
+#### 💎_4. Step: Swap your BNB for First100x 2023_
 
 _Now you can swap your BNB for First100x 2023 . Set your slippage to 5-6% . Click on the Swap Button to finalize your trade._
