@@ -45,8 +45,8 @@ _We will have a metaverse integration, conditioning our investors with capabilit
 
 First100x 2023 Cute is a collection of 500 unique NFT. Our mission is simple, to provide you with genuinely aesthetically pleasing artwork, build a vibrant community, and together provide quality value to this NFT space of ours
 
-{% content-ref url="about-first100x-2023/nfts-100x.md" %}
-[nfts-100x.md](about-first100x-2023/nfts-100x.md)
+{% content-ref url="about-first100x-2023/nfts-100x/" %}
+[nfts-100x](about-first100x-2023/nfts-100x/)
 {% endcontent-ref %}
 
 #### <mark style="color:yellow;">IA 100x</mark>
