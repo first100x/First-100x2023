@@ -37,3 +37,7 @@
 * [😉 Telegram Official](https://t.me/First100x2023)
 * [🧐 Discord Official](https://discord.gg/uvfR8MwUHR)
 * [😉 Opensea](https://opensea.io/First100x2023)
+
+***
+
+* [Telegram Announcement](https://t.me/First100x2023Announcement)
