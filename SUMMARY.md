@@ -13,6 +13,7 @@
 * [🧞♀ Metaverse 100x](about-first100x-2023/metaverse-100x.md)
 * [👥 NFT's 100x](about-first100x-2023/nfts-100x/README.md)
   * [🥳 Short Collection NFT's 100x](about-first100x-2023/nfts-100x/short-collection-nfts-100x.md)
+  * [😍 Opensea](https://opensea.io/First100x2023)
 * [🌪 IA 100x](about-first100x-2023/ia-100x.md)
 
 ## Token 100X
