@@ -24,7 +24,7 @@
 * [⁉ How to buy 100x ?](token-100x/how-to-buy-100x.md)
 * [🌅 Roadmap](token-100x/roadmap.md)
 * [💰 Fairlaunch - Pinksale](token-100x/fairlaunch-pinksale.md)
-* [🕵♂ KYC & Audit](token-100x/kyc-and-audit.md)
+* [🕵♂ Audit](token-100x/kyc-and-audit.md)
 * [♟ Contract Official](token-100x/contract-official.md)
 
 ## Social Media
