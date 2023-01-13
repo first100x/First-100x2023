@@ -9,7 +9,7 @@ coverY: 0
 
 As a great opportunity for our investors, we developed our Big Pot, where after the launch all fees will be stored for a period of one week and at the end of it will be distributed to our winning investors!
 
-**BIG POT and its expansions** - <mark style="color:yellow;">2%</mark> of the sales fees are earmarked for sales and it will be from them that we will distribute <mark style="color:yellow;">15%</mark> to the winning investors
+**BIG POT and its expansions** - 1<mark style="color:yellow;">%</mark> of the sales fees are earmarked for sales and it will be from them that we will distribute <mark style="color:yellow;">15%</mark> to the winning investors
 
 #### It will be distributed to the top 30 investors during our Fairlaunch, so hurry up!
 
